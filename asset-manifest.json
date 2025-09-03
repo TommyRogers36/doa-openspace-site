@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/doa-openspace-site/static/css/main.5bba715e.css",
-    "main.js": "/doa-openspace-site/static/js/main.c81b59b0.js",
+    "main.css": "/doa-openspace-site/static/css/main.81689d8e.css",
+    "main.js": "/doa-openspace-site/static/js/main.1b63edf6.js",
     "static/js/453.8695b89c.chunk.js": "/doa-openspace-site/static/js/453.8695b89c.chunk.js",
     "static/media/backgrounddoa.png": "/doa-openspace-site/static/media/backgrounddoa.a082a775c97028fe9b23.png",
     "static/media/fa-solid-900.woff2": "/doa-openspace-site/static/media/fa-solid-900.f54756da1f3d1b88887f.woff2",
@@ -13,12 +13,12 @@
     "static/media/ifruit.png": "/doa-openspace-site/static/media/ifruit.6ae9a247ae996df3f9e3.png",
     "static/media/fa-v4compatibility.woff2": "/doa-openspace-site/static/media/fa-v4compatibility.24fc9d217708cb3f0362.woff2",
     "index.html": "/doa-openspace-site/index.html",
-    "main.5bba715e.css.map": "/doa-openspace-site/static/css/main.5bba715e.css.map",
-    "main.c81b59b0.js.map": "/doa-openspace-site/static/js/main.c81b59b0.js.map",
+    "main.81689d8e.css.map": "/doa-openspace-site/static/css/main.81689d8e.css.map",
+    "main.1b63edf6.js.map": "/doa-openspace-site/static/js/main.1b63edf6.js.map",
     "453.8695b89c.chunk.js.map": "/doa-openspace-site/static/js/453.8695b89c.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.5bba715e.css",
-    "static/js/main.c81b59b0.js"
+    "static/css/main.81689d8e.css",
+    "static/js/main.1b63edf6.js"
   ]
 }
